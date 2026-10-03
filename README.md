@@ -1,0 +1,2 @@
+# premium-sre-depend-001-service-dependency-map-builder
+Your microservices are a web of dependencies, but you're mapping them in spreadsheets and Slack threads. When a service goes down at 2 AM, you're scrambling to figure out what breaks—because nobody has a single source of truth for your service dependency map.  The Service Dependency Map Builder transforms Notion into your team's visual command cent
